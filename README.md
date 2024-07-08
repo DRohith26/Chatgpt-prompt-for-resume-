@@ -1,6 +1,6 @@
 #ChatGPT Prompt which takes your Resume as input and parse the content in JSON format
 
-I would like to provide a resume in PDF format and have it parsed into a structured JSON format. The resume contains sections such as SUMMARY, EDUCATION, SKILLS, PROJECTS, and CERTIFICATIONS. Please extract the content from each section and organize it accordingly in the JSON output. Here are the steps I'd like you to follow:
+Here is my resume in PDF format and have it parsed into a structured JSON format. The resume contains sections such as SUMMARY, EDUCATION, SKILLS, PROJECTS, and CERTIFICATIONS. Please extract the content from each section and organize it accordingly in the JSON output. Here are the steps I'd like you to follow:
 
 Extract the text from the PDF file.
 
