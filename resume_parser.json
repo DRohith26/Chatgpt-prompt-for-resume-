@@ -1,0 +1,79 @@
+{
+  "Name": "Rohith Dadi",
+  "Contact": {
+    "Email": "ra0927@srmist.edu.in",
+    "Phone": "9014425515",
+    "LinkedIn": "https://www.linkedin.com/in/rohith-dadi-37ab9b227/",
+    "Portfolio": "https://drohith26.github.io/_portfolio/"
+  },
+  "Summary": "A computer science student with strong problem-solving skills and keen interest in technology. Adaptable and collaborative, seeking opportunities to apply my programming knowledge and contribute to impactful projects.",
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology in Computer Science and Engineering",
+      "Institution": "SRM Institute of Science and Technology",
+      "Location": "Chennai",
+      "Year": "2025",
+      "GPA": "8.93"
+    },
+    {
+      "Degree": "Senior Secondary Education",
+      "Institution": "Sri Prakash Vidyaniketan",
+      "Location": "Visakhapatnam",
+      "Year": "2021",
+      "Percentage": "91.8%"
+    },
+    {
+      "Degree": "Primary Education",
+      "Institution": "Sri Chaitanya Techno School",
+      "Location": "Visakhapatnam",
+      "Year": "2019",
+      "CGPA": "9.8"
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Data Structures",
+    "Machine Learning",
+    "PowerBI",
+    "Mysql",
+    "C",
+    "C++",
+    "Sqlite",
+    "Competitive Programming",
+    "Creative Skills"
+  ],
+  "Projects": [
+    {
+      "Title": "HRDashboard Project using Power BI",
+      "Date": "February 2024 - February 2024",
+      "Description": "Developed an interactive HR dashboard in Power BI to visualize key metrics such as employee demographics, turnover rates, and performance scores. Integrated data from multiple HR systems and created dynamic reports to support strategic decision-making and enhance HR management efficiency."
+    },
+    {
+      "Title": "RoadAccidents Analysis using Power BI",
+      "Date": "March 2024 - March 2024",
+      "Description": "Developed an interactive dashboard in Power BI to analyze road accident data, highlighting key metrics such as accident frequency, locations, causes, and severity. Integrated data from multiple sources and created visual reports to support traffic safety initiatives and policy-making decisions."
+    },
+    {
+      "Title": "Taxi Fare Prediction Project - Machine Learning",
+      "Date": "June 2024 - June 2024",
+      "Description": "This project highlights my expertise in applying machine learning to real-world predictive analytics challenges within the transportation industry. I developed a robust model capable of accurately predicting taxi fares based on a variety of features, leveraging advanced machine learning algorithms. Engineered an advanced predictive model using ensemble methods, significantly improving the accuracy of taxi fare predictions. Trained on a large dataset of taxi trips, the model incorporated temporal, contextual features to enhance prediction reliability."
+    },
+    {
+      "Title": "Diabetes Prediction - Machine Learning",
+      "Date": "November 2023 - November 2023",
+      "Description": "This project showcases my capability to apply machine learning techniques to the healthcare domain, specifically focusing on predicting diabetes based on various health indicators. The project involved developing a predictive model that accurately determines the likelihood of diabetes in patients, leveraging advanced machine learning algorithms and data analysis techniques. Engineered a predictive model using logistic regression, decision trees, and ensemble methods, improving prediction accuracy by 15%. The model was trained on a comprehensive dataset that included features such as age, BMI, blood pressure, and glucose levels. This project emphasized data preprocessing, feature selection, model tuning, and validation, demonstrating a robust application of machine learning in healthcare analytics."
+    }
+  ],
+  "Certifications": [
+    {
+      "Title": "Certified Application Developer",
+      "Issuer": "ServiceNow",
+      "Description": "Earned certification demonstrating proficiency in developing, deploying, and maintaining applications on the ServiceNow platform. Skilled in utilizing ServiceNow Studio, scripting, workflows, and integration techniques to build custom business applications."
+    },
+    {
+      "Title": "AWS Academy Data Analytics",
+      "Issuer": "AWS",
+      "Description": "Acquired comprehensive understanding of data collection, storage, processing, analysis, and visualization in the AWS cloud environment. Learned to perform exploratory data analysis, create dashboards, interpret results, and communicate insights effectively."
+    }
+  ]
+}
